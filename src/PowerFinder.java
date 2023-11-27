@@ -17,6 +17,7 @@ public class PowerFinder {
             return -1; // Возвращаем -1 в случае ошибки
         }
 
+              //
         int result = 1;
 
         for (int i = 0; i < power; i++) {
